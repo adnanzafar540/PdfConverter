@@ -12,3 +12,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PdfConverter"
 include ':app'
+include ':scanlibrary'
